@@ -3,7 +3,7 @@ Employment
 Dashboard 
 https://public.tableau.com/profile/sri.harshini2282#!/vizhome/Project_16188465139360/DashBoard
 Story Telling DashBoard 
-https://public.tableau.com/profile/sri.harshini2282#!/vizhome/Project_16188465139360/StorytellingDashBoard
+https://public.tableau.com/profile/sri.harshini2282#!/vizhome/Project_16188465139360/StorytellingDashBoard?publish=yes
 All India Worksheet 
 https://public.tableau.com/profile/sri.harshini2282#!/vizhome/Project_16188465139360/ALLINDIA
 Rural And Urban Unemployment(Male And Female) 
