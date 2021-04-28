@@ -6,8 +6,8 @@ Story Telling DashBoard
 https://public.tableau.com/profile/sri.harshini2282#!/vizhome/Project_16188465139360/StorytellingDashBoard
 All India Worksheet 
 https://public.tableau.com/profile/sri.harshini2282#!/vizhome/Project_16188465139360/ALLINDIA
-Rural And Urban Areas(Male And Female) 
-https://public.tableau.com/profile/sri.harshini2282#!/vizhome/Project_16188465139360/RuralandUrbanAreas
+Rural And Urban Unemployment(Male And Female) 
+https://public.tableau.com/profile/sri.harshini2282#!/vizhome/Project_16188465139360/RuralandUrbanUnemployment
 Rural Male and Rural Female 
 https://public.tableau.com/profile/sri.harshini2282#!/vizhome/Project_16188465139360/RuralMaleandRuralFemale
 Urban Male and Urban Female 
